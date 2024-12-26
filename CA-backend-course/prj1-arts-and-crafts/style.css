@@ -1,0 +1,43 @@
+/* stylesheet for the html. originally done on 21 dec, uploading to github on 26 dec*/
+
+* {
+    font-family: Helvetica;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+#first-section {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1678b44*_gcl_aw*R0NMLjE3MzQ3MDU3NDAuQ2p3S0NBaUF5SlM3QmhCaUVpd0F5Uzl1TmI5MUlYOV9mZVVmR0RyekZKUm1yOUp2d3Z4bjl6cEp5STZKUlRpczdDSFZhN19ndXNUOW1Sb0MyX1VRQXZEX0J3RQ..*_gcl_au*MTM1MzM2OTMwMS4xNzM0NzA1NzM4*_ga*MTYwNjI3MzM4Mi4xNzM0NzA1NzM1*_ga_3LRZM6TM9L*MTczNDc5NDc4MC4zLjEuMTczNDgwMDAwNS4xOC4wLjA.");
+}
+
+#second-section {
+    font-size: 32px;
+    font-weight: bold;
+    background-color: mediumspringgreen;
+    color: white;
+}
+
+#third-section {
+    font-size: 32px;
+    font-weight: bold;
+    background-color: lightcoral;
+    color: white;
+}
+
+#fourth-section {
+    font-size: 32px;
+    font-weight: bold;
+    background-color: skyblue;
+    color: white;
+}
+
+#price-text {
+    font-weight: bold;
+    color: blue;
+}
