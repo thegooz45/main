@@ -5,8 +5,9 @@
 * backend
 * SRE
 * AI/ML engineering
+* data science/engineering
 
-<br>right now, i'm doing Codecademy's Backend Dev path, so expect to see lots of code regarding that. as well as anything regarding the fields above~<br>i'm also doing their ML Eng path, as well as a ML/AI course on Udemy c: i can get into any of these fields i believe it!<br><br>👯 happy to collaborate on (and also help with) - anything sec eng, cloud computing, backend, sre, ai/ml work<br>⚡ fun fact - i love anime and kirby
+<br>right now, i'm doing Codecademy's Backend Dev path, so expect to see lots of code regarding that. as well as anything regarding the fields above~<br>i'm also a ML/AI course on Udemy c: i can get into any of these fields i believe it!<br><br>👯 happy to collaborate on (and also help with) - anything sec eng, cloud computing, backend, sre, ai/ml work, data science/engineering <br>⚡ fun fact - i love anime and kirby
 
 
 ## 🌐 Socials:
