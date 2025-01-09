@@ -7,7 +7,7 @@
 * AI/ML engineering
 * data science/engineering (check out my jupyter notebook work <a href="https://github.com/thegooz45/jupyter-notebooks">here!</a>)
 
-<br>right now, i'm doing <a href="https://www.codecademy.com/learn/paths/data-analyst">Codecademy's Data Scientist path</a>, so expect to see lots of code regarding that. i'm also a <a href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=NEWYEARCAREER">ML/AI course on Udemy</a> c: i can get into any of these fields and land a job! i believe it!<br><br>👯 happy to collaborate on (and also help with) - anything sec eng, cloud computing, backend, sre, ai/ml work, data science/engineering <br>⚡ fun fact - i love anime and kirby
+<br>right now, i'm doing a <a href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=NEWYEARCAREER">ML/AI/Data Science course on Udemy</a> c: i can get into any of these fields and land a job! i believe it!<br><br>👯 happy to collaborate on (and also help with) - anything sec eng, cloud computing, backend, sre, ai/ml work, data science/engineering <br>⚡ fun fact - i love anime and kirby
 
 
 ## 🌐 Socials:
