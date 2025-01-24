@@ -1,11 +1,13 @@
 # 💫 About Me:
-🔭 i'm brianna (she/they), an experienced QAE/SDET that's transitioning out, and into any of the following fields:
+🔭 i'm brianna (she/they), an experienced QAE/SDET that's learning a bunch of new things, like:
 * security engineering (i do have my <a href="https://www.credly.com/badges/f7fcb8df-f3e7-4ad8-8f98-31fccfa87b3b/public_url">CompTIA Security+ cert</a>)
 * cloud computing (also have <a href="https://www.credly.com/badges/2b98400b-7b45-415a-af39-9b7d2e549c96/public_url">AWS CCP cert</a>)
 * backend
 * SRE
 * AI/ML engineering
 * data science/engineering (check out my jupyter notebook work <a href="https://github.com/thegooz45/jupyter-notebooks">here!</a>)
+
+if you'd like to see my QA/SDET work, check out this repo here!
 
 <br>right now, i'm doing a <a href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=NEWYEARCAREER">ML/AI/Data Science course on Udemy</a> c: i can get into any of these fields and land a job! i believe it!<br><br>👯 happy to collaborate on (and also help with) - anything sec eng, cloud computing, backend, sre, ai/ml work, data science/engineering <br>⚡ fun fact - i love anime and kirby
 
