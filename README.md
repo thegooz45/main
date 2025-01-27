@@ -9,7 +9,7 @@
 
 if you'd like to see my QA/SDET work, check out <a href="https://github.com/thegooz45/qa-work">this repo here</a>!
 
-<br>right now, i'm doing a <a href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=NEWYEARCAREER">ML/AI/Data Science course on Udemy</a> c: i can get into any of these fields and land a job! i believe it!<br><br>👯 happy to collaborate on (and also help with) - anything sec eng, cloud computing, backend, sre, ai/ml work, data science/engineering <br>⚡ fun fact - i love anime and kirby
+<br>right now, i'm doing a <a href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=NEWYEARCAREER">ML/AI/Data Science</a> course on Udemy, as well as a <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">full-stack course</a> - also on Udemy! <br>⚡ fun fact - i love anime and kirby
 
 
 ## 🌐 Socials:
